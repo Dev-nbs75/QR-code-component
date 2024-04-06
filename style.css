@@ -20,7 +20,7 @@ align-items: center;
     border-radius: .75em;
     box-shadow: 0 25px 12.5px hsl(0, 0%, 0%, .05);
   }
-  .center{
+  .Container{
     position: absolute;
     top: 0;
     bottom: 0;
